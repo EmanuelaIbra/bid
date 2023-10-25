@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "625000323819",
+    "project_id": "newbid-65b1a",
+    "storage_bucket": "newbid-65b1a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625000323819:android:14e2dc5ceadc2eec0d7cae",
+        "android_client_info": {
+          "package_name": "com.example.newbid"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBATSIGmcZMcmZsVkTirhz2UdOVyZ546E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
